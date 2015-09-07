@@ -1,7 +1,7 @@
 #lang info
 
 (define collection 'multi)
-(define deps '("base" "scribble-lib" "syntax-color-lib"))
+(define deps '("base" "2d-lib"))
 
 (define pkg-desc "Experimental 2d syntax")
 
